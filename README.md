@@ -35,7 +35,7 @@
 
 ## 🎓 Certifications  
 
-[![Hashgraph Developer Course](https://img.shields.io/badge/-IPsec-2C3E50?logo=lock&logoColor=white)](https://www.linkedin.com/in/slim-ben-tanfous-971b19244/)
+[![Hashgraph Developer Course](https://img.shields.io/badge/Hedera-Hashgraph%20Developer%20Course-7B3FE4?logo=hedera&logoColor=white)](https://www.linkedin.com/in/slim-ben-tanfous-971b19244/)
 [![CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps%20Associate-blue?logo=cisco)](https://www.credly.com/badges/f935daea-d7f0-422b-8335-8bef1c35d23f/public_url)  
 [![CCNA](https://img.shields.io/badge/Cisco-CCNA-orange?logo=cisco)](https://www.credly.com/badges/ccc45b97-4b6e-4eb8-a172-fabe99537515/public_url)  
 
