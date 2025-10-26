@@ -10,33 +10,18 @@
 ## 🛡️ Tech Arsenal  
 
 ### 🔍 Cybersecurity & Monitoring  
-![Wazuh](https://img.shields.io/badge/-Wazuh-005571?logo=wazuh&logoColor=white)  
-![Security Onion](https://img.shields.io/badge/-Security%20Onion-2E86C1?logo=security-onion&logoColor=white)  
-![Kibana](https://img.shields.io/badge/-Kibana-EF2D5E?logo=kibana&logoColor=white)  
-![Snort](https://img.shields.io/badge/-Snort-CC0000?logo=snort&logoColor=white)  
-![Shuffle](https://img.shields.io/badge/-Shuffle-1E90FF?logo=automation&logoColor=white)  
-![TheHive](https://img.shields.io/badge/-TheHive-F39C12?logo=apachehive&logoColor=white)  
-![Cortex](https://img.shields.io/badge/-Cortex-2ECC71?logo=elastic&logoColor=white)  
+![Wazuh](https://img.shields.io/badge/-Wazuh-005571?logo=wazuh&logoColor=white) ![Security Onion](https://img.shields.io/badge/-Security%20Onion-2E86C1?logo=security-onion&logoColor=white) ![Kibana](https://img.shields.io/badge/-Kibana-EF2D5E?logo=kibana&logoColor=white) ![Snort](https://img.shields.io/badge/-Snort-CC0000?logo=snort&logoColor=white) ![Shuffle](https://img.shields.io/badge/-Shuffle-1E90FF?logo=automation&logoColor=white) ![TheHive](https://img.shields.io/badge/-TheHive-F39C12?logo=apachehive&logoColor=white) ![Cortex](https://img.shields.io/badge/-Cortex-2ECC71?logo=elastic&logoColor=white) 
 
 ### ⚙️ DevSecOps & Infrastructure  
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)  
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-FF6C37?logo=githubactions&logoColor=white)  
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=fastapi&logoColor=white)  
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-FF6C37?logo=githubactions&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=fastapi&logoColor=white) 
+
 
 ### 💻 Programming  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-68217A?logo=dotnet&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-68217A?logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+    
 
 ### 🌐 Networking  
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white)  
-![VPN](https://img.shields.io/badge/-VPN-FF0000?logo=wireguard&logoColor=white)  
-![IPsec](https://img.shields.io/badge/-IPsec-2C3E50?logo=lock&logoColor=white)  
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white) ![VPN](https://img.shields.io/badge/-VPN-FF0000?logo=wireguard&logoColor=white) ![IPsec](https://img.shields.io/badge/-IPsec-2C3E50?logo=lock&logoColor=white)   
 
 ---
 
